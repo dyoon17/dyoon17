@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/@yourid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourid)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://dyoon17.tistory.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyoon17)
