@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Doyoon </h1>
+## Hi 👋, I'm Doyoon </h1>
 
 - 🔭 I’m currently working on **Java** and **Python**
 - 🌱 I’m currently learning **Unity** and **C++**
